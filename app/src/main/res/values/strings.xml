@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GEMobileTest</string>
+
+    <string name="titleLabel">Travel Search</string>
+
+    <string name="fromLabel">From</string>
+    <string name="toLabel">To</string>
+    <string name="whenLabel">When</string>
+
+    <string name="hintFrom">You\'re in </string>
+    <string name="hintTo">Your next destination...</string>
+
+
+
+    <string name="searchButtonMessage">Search is not yet implemented</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="searchButtonLabel">Search now!</string>
+</resources>
